@@ -5,3 +5,5 @@ This file was modified locally
 This line was added in BR-2
 
 Another modification in BR-2
+
+Edit in BR-2 branch
